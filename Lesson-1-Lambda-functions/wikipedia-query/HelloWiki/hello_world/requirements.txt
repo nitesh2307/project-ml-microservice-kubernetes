@@ -1,0 +1,2 @@
+requests
+wikipedia==1.4.0

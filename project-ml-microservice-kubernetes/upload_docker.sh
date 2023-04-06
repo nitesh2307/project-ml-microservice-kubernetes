@@ -6,7 +6,7 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=nitesh2307/api_nitesh_first_image:firsttry
+dockerpath=nitesh2307/prediction_docker_im1:nk1
 
 # Step 2:  
 # Authenticate & tag
